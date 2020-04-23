@@ -1,3 +1,6 @@
+
+[![Join the chat at https://gitter.im/mavproxy_udp/community](https://badges.gitter.im/mavproxy_udp/community.svg)](https://gitter.im/mavproxy_udp/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 MAVProxy_udp:
 
 usage: mavproxy_udp.py [-h] [--in_port IN_PORT] [--out_port OUT_PORT]
