@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: MAVProxy_udp
+nav:
+    - Home: index.md
+    - About: about.md

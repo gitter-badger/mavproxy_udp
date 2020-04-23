@@ -1,13 +1,13 @@
-# Welcome to MkDocs
+# Welcome to MAVProxy_udp
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+For full documentation visit [masoud-iranmehr.github.io/mavproxy_udp/](https://masoud-iranmehr.github.io/mavproxy_udp/).
 
 ## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* `mavproxy_udp.py -h` - Shows available commands for help.
+* `mavproxy_udp.py --in_port [INPUT_PORT]` - Input UDP port (default = 14550).
+* `mavproxy_udp.py --out_port [OUTPUT_PORT]` - Initial UDP output port (Other UDP ports start from this UDP port with the incremental of 1) (default = 1220).
+* `mavproxy_udp.py --dest_addr [DESTINATION_ADDRESS]` - Destination address for message forwarding (default = '').
 
 ## Project layout
 
